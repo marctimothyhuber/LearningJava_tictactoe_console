@@ -7,7 +7,7 @@ To get a local copy up and running, follow these steps:
 ### Clone the repository to your local machine:
 Copy code
 ```
-git clone https://github.com/Heimatbrot/LearningJava_tictactoe_console.git
+git clone https://github.com/marctimothyhuber/LearningJava_tictactoe_console.git
 ```
 
 ## Technologies Used
